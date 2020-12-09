@@ -1,0 +1,13 @@
+E:\collage stuff\RPG2\RPG2\bin\Debug\netcoreapp3.1\RPG2.exe
+E:\collage stuff\RPG2\RPG2\bin\Debug\netcoreapp3.1\RPG2.deps.json
+E:\collage stuff\RPG2\RPG2\bin\Debug\netcoreapp3.1\RPG2.runtimeconfig.json
+E:\collage stuff\RPG2\RPG2\bin\Debug\netcoreapp3.1\RPG2.runtimeconfig.dev.json
+E:\collage stuff\RPG2\RPG2\bin\Debug\netcoreapp3.1\RPG2.dll
+E:\collage stuff\RPG2\RPG2\bin\Debug\netcoreapp3.1\RPG2.pdb
+E:\collage stuff\RPG2\RPG2\obj\Debug\netcoreapp3.1\RPG2.csprojAssemblyReference.cache
+E:\collage stuff\RPG2\RPG2\obj\Debug\netcoreapp3.1\RPG2.AssemblyInfoInputs.cache
+E:\collage stuff\RPG2\RPG2\obj\Debug\netcoreapp3.1\RPG2.AssemblyInfo.cs
+E:\collage stuff\RPG2\RPG2\obj\Debug\netcoreapp3.1\RPG2.csproj.CoreCompileInputs.cache
+E:\collage stuff\RPG2\RPG2\obj\Debug\netcoreapp3.1\RPG2.dll
+E:\collage stuff\RPG2\RPG2\obj\Debug\netcoreapp3.1\RPG2.pdb
+E:\collage stuff\RPG2\RPG2\obj\Debug\netcoreapp3.1\RPG2.genruntimeconfig.cache
